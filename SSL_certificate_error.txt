@@ -1,1 +1,13 @@
+1) SSL Certificate error:
 
+If you will not be able to install or update any python library you should be following this steps. This is a fail proof method.
+
+1) Open Pycharm
+2) Go to File
+3) Settings
+4) Select Project: name _of_the_project
+5) Go to Project Interpreter
+6) click on + icon to install a new package or double click on existing package to upgrade it
+7) On the right hand side at bottom you will see options checkbox.
+8) Click on it and type "--trusted-host pypi.org --trusted-host files.pythonhosted.org"
+9) Problem Solved.
