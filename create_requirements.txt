@@ -1,0 +1,2 @@
+To create requirements.txt from pycharm type this command from terminal in pycharm.
+pip freeze > requirements.txt
